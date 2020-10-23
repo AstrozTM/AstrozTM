@@ -1,5 +1,6 @@
 ## Who am I?
 I'm a programmer, I mainly do backend, but I can do front end aswell, experienced with Java, JS, C#, C++, Lua, and python, and I'm really good with both JS, and Lua.
+Some mock languages that I know too are CSS, and HTML.
 
 <a><img src="https://cdn.discordapp.com/attachments/738673138954666015/769088759136124958/Astroz.png"/></a>
 <br/>
