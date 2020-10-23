@@ -1,16 +1,12 @@
-### Hi there 👋
+## Who am I?
+I'm a programmer, I mainly do backend, but I can do front end aswell, experienced with Java, JS, C#, C++, Lua, and python, and I'm really good with both JS, and Lua.
 
-<!--
-**AstrozTM/AstrozTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a><img src="https://cdn.discordapp.com/avatars/475111190909943808/ca122ad58fc651920fae1288844d411c.png?size=128"/></a>
+<br/>
+## Am I for hire?
+Of course I'm but I only do rbx work, as of now.
+<br/>
+## Where can I contact you?
+You can contact me on discord, by either adding me at 🎃Astroz🎃#0001, or https://discord.com/api/v8/users/475111190909943808/profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a class="github-button" href="https://discord.com/api/v8/users/475111190909943808/profile" aria-label="Follow @ntkme on GitHub">Follow @ntkme</a>
