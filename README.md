@@ -1,7 +1,7 @@
 ## Who am I?
 I'm a programmer, I mainly do backend, but I can do front end aswell, experienced with Java, JS, C#, C++, Lua, and python, and I'm really good with both JS, and Lua.
 
-<a><img src="https://cdn.discordapp.com/avatars/475111190909943808/ca122ad58fc651920fae1288844d411c.png?size=128"/></a>
+<a><img src="https://cdn.discordapp.com/attachments/738673138954666015/769088759136124958/Astroz.png"/></a>
 <br/>
 ## Am I for hire?
 Of course I'm but I only do rbx work, as of now.
