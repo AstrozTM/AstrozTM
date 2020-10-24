@@ -1,5 +1,5 @@
 ## Who am I?
-I'm a programmer, I mainly do backend, but I can do front end aswell, experienced with Java, JS, C#, C++, Lua, and python. And but I'm best with both JS, and Lua.
+I'm a programmer, I mainly do backend, but I can do front end aswell, experienced with Java, JS, C#, C++, Lua, and python.But I'm best with both JS, and Lua.
 <br/>
 ## Am I for hire?
 Of course I'm but I only do rbx work, as of now.
